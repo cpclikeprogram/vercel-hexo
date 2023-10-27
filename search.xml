@@ -5,10 +5,23 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2023/10/26/tech/hello-world/"/>
-      <url>/2023/10/26/tech/hello-world/</url>
+      <link href="/2023/10/27/tech/hello-world/"/>
+      <url>/2023/10/27/tech/hello-world/</url>
       
         <content type="html"><![CDATA[<p>以下是一个示例程序编程语言版本的 “Hello, World!” 打印程序，以Markdown格式呈现：</p><h2 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, World!&quot;</span>)</span><br></pre></td></tr></table></figure><h2 id="JavaScript"><a href="#JavaScript" class="headerlink" title="JavaScript"></a>JavaScript</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;Hello, World!&quot;</span>);</span><br></pre></td></tr></table></figure><h2 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">HelloWorld</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;Hello, World!&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="C"><a href="#C" class="headerlink" title="C++"></a>C++</h2><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;Hello, World!&quot;</span> &lt;&lt; endl;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="Ruby"><a href="#Ruby" class="headerlink" title="Ruby"></a>Ruby</h2><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">puts <span class="string">&quot;Hello, World!&quot;</span></span><br></pre></td></tr></table></figure><h2 id="C-1"><a href="#C-1" class="headerlink" title="C#"></a>C#</h2><figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">using</span> System;</span><br><span class="line"></span><br><span class="line"><span class="keyword">class</span> <span class="title">Program</span> &#123;</span><br><span class="line">    <span class="function"><span class="keyword">static</span> <span class="keyword">void</span> <span class="title">Main</span>()</span> &#123;</span><br><span class="line">        Console.WriteLine(<span class="string">&quot;Hello, World!&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/10/27/hello-world/"/>
+      <url>/2023/10/27/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
@@ -46,19 +59,6 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2023/10/26/hello-world/"/>
-      <url>/2023/10/26/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>tags</title>
       <link href="/2023/09/25/tags/"/>
       <url>/2023/09/25/tags/</url>
@@ -81,39 +81,14 @@
       
       <categories>
           
-          <category> [object Object] </category>
+          <category> Life </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> [object Object] </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test1</title>
-      <link href="/2023/09/25/test1/"/>
-      <url>/2023/09/25/test1/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> [object Object] </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> [object Object] </tag>
+            <tag> Photo </tag>
             
         </tags>
       
@@ -246,7 +221,7 @@
       <link href="/2023/09/23/tech/blazor/"/>
       <url>/2023/09/23/tech/blazor/</url>
       
-        <content type="html"><![CDATA[<p>以下是一个关于Blazor的官方介绍的Markdown格式文档，包括Blazor的Logo图片：</p><img src="http://s34kam7s5.hn-bkt.clouddn.com/static/images/2.png"><img src="http://s34kam7s5.hn-bkt.clouddn.com/static/images/logo.jpg"><h1 id="Blazor-官方介绍"><a href="#Blazor-官方介绍" class="headerlink" title="Blazor 官方介绍"></a>Blazor 官方介绍</h1><p><img src="https://docs.microsoft.com/en-us/aspnet/core/blazor/images/blazor-logo.png" alt="Blazor Logo"></p><h2 id="什么是-Blazor？"><a href="#什么是-Blazor？" class="headerlink" title="什么是 Blazor？"></a>什么是 Blazor？</h2><p>Blazor 是一种现代的、用于构建交互式Web应用程序的开源Web框架，由微软开发和维护。它的独特之处在于，Blazor 允许您使用C#编程语言来构建客户端Web应用程序，而不必依赖JavaScript。</p><h2 id="主要特点"><a href="#主要特点" class="headerlink" title="主要特点"></a>主要特点</h2><p>Blazor 提供了许多强大的特性，使其成为一个受欢迎的Web开发框架：</p><ul><li><p><strong>单页应用程序（SPA）</strong>：Blazor 应用程序是单页应用程序，它们在加载后在浏览器中运行，通过AJAX从服务器加载数据。</p></li><li><p><strong>C# 和 .NET</strong>：您可以使用熟悉的C#编程语言以及.NET库和工具，从而减少了学习曲线。</p></li><li><p><strong>组件化</strong>：Blazor 应用程序是基于组件的，您可以创建可重用的组件，提高了代码的可维护性。</p></li><li><p><strong>双向数据绑定</strong>：Blazor 支持双向数据绑定，使数据与UI保持同步。</p></li><li><p><strong>路由</strong>：Blazor 提供了强大的路由功能，用于管理URL和页面导航。</p></li><li><p><strong>模块性</strong>：您可以按需加载Blazor组件，从而减少初始加载时间。</p></li></ul><h2 id="支持的运行时"><a href="#支持的运行时" class="headerlink" title="支持的运行时"></a>支持的运行时</h2><p>Blazor 有两个主要运行时：</p><ul><li><p><strong>Blazor WebAssembly</strong>：运行在浏览器中的WebAssembly。这允许您在客户端上运行C#代码，无需服务器支持。</p></li><li><p><strong>Blazor Server</strong>：运行在服务器上，通过SignalR与客户端通信。适用于需要更高安全性和对服务器端数据更多控制的应用。</p></li></ul><h2 id="开始使用-Blazor"><a href="#开始使用-Blazor" class="headerlink" title="开始使用 Blazor"></a>开始使用 Blazor</h2><p>要开始使用 Blazor，您可以按照以下步骤操作：</p><ol><li><p>安装 .NET SDK（如果尚未安装）。</p></li><li><p>创建一个新的 Blazor 项目。</p></li><li><p>开发您的应用程序，构建组件，处理数据和事件，以及配置路由。</p></li><li><p>运行您的 Blazor 应用程序并在浏览器中查看结果。</p></li></ol><h2 id="获取更多信息"><a href="#获取更多信息" class="headerlink" title="获取更多信息"></a>获取更多信息</h2><p>要了解有关 Blazor 的更多信息，请访问 <a href="https://docs.microsoft.com/en-us/aspnet/core/blazor/">Blazor 官方文档</a>。</p><p>Blazor 是一个强大的工具，用于构建现代Web应用程序，无论是单页应用程序还是服务器渲染应用程序。它为开发人员提供了灵活性、性能和生产力，以满足各种Web应用程序的需求。</p><p><strong>开始使用 Blazor，开始构建您的下一个Web应用程序吧！</strong></p><h2 id="blazor"><a href="#blazor" class="headerlink" title="blazor"></a>blazor</h2>]]></content>
+        <content type="html"><![CDATA[<p>以下是一个关于Blazor的官方介绍的Markdown格式文档，包括Blazor的Logo图片：</p><!-- <img src="http://s34kam7s5.hn-bkt.clouddn.com/static/images/2.png"><img src="http://s34kam7s5.hn-bkt.clouddn.com/static/images/logo.jpg"> --><h1 id="Blazor-官方介绍"><a href="#Blazor-官方介绍" class="headerlink" title="Blazor 官方介绍"></a>Blazor 官方介绍</h1><p><img src="https://docs.microsoft.com/en-us/aspnet/core/blazor/images/blazor-logo.png" alt="Blazor Logo"></p><h2 id="什么是-Blazor？"><a href="#什么是-Blazor？" class="headerlink" title="什么是 Blazor？"></a>什么是 Blazor？</h2><p>Blazor 是一种现代的、用于构建交互式Web应用程序的开源Web框架，由微软开发和维护。它的独特之处在于，Blazor 允许您使用C#编程语言来构建客户端Web应用程序，而不必依赖JavaScript。</p><h2 id="主要特点"><a href="#主要特点" class="headerlink" title="主要特点"></a>主要特点</h2><p>Blazor 提供了许多强大的特性，使其成为一个受欢迎的Web开发框架：</p><ul><li><p><strong>单页应用程序（SPA）</strong>：Blazor 应用程序是单页应用程序，它们在加载后在浏览器中运行，通过AJAX从服务器加载数据。</p></li><li><p><strong>C# 和 .NET</strong>：您可以使用熟悉的C#编程语言以及.NET库和工具，从而减少了学习曲线。</p></li><li><p><strong>组件化</strong>：Blazor 应用程序是基于组件的，您可以创建可重用的组件，提高了代码的可维护性。</p></li><li><p><strong>双向数据绑定</strong>：Blazor 支持双向数据绑定，使数据与UI保持同步。</p></li><li><p><strong>路由</strong>：Blazor 提供了强大的路由功能，用于管理URL和页面导航。</p></li><li><p><strong>模块性</strong>：您可以按需加载Blazor组件，从而减少初始加载时间。</p></li></ul><h2 id="支持的运行时"><a href="#支持的运行时" class="headerlink" title="支持的运行时"></a>支持的运行时</h2><p>Blazor 有两个主要运行时：</p><ul><li><p><strong>Blazor WebAssembly</strong>：运行在浏览器中的WebAssembly。这允许您在客户端上运行C#代码，无需服务器支持。</p></li><li><p><strong>Blazor Server</strong>：运行在服务器上，通过SignalR与客户端通信。适用于需要更高安全性和对服务器端数据更多控制的应用。</p></li></ul><h2 id="开始使用-Blazor"><a href="#开始使用-Blazor" class="headerlink" title="开始使用 Blazor"></a>开始使用 Blazor</h2><p>要开始使用 Blazor，您可以按照以下步骤操作：</p><ol><li><p>安装 .NET SDK（如果尚未安装）。</p></li><li><p>创建一个新的 Blazor 项目。</p></li><li><p>开发您的应用程序，构建组件，处理数据和事件，以及配置路由。</p></li><li><p>运行您的 Blazor 应用程序并在浏览器中查看结果。</p></li></ol><h2 id="获取更多信息"><a href="#获取更多信息" class="headerlink" title="获取更多信息"></a>获取更多信息</h2><p>要了解有关 Blazor 的更多信息，请访问 <a href="https://docs.microsoft.com/en-us/aspnet/core/blazor/">Blazor 官方文档</a>。</p><p>Blazor 是一个强大的工具，用于构建现代Web应用程序，无论是单页应用程序还是服务器渲染应用程序。它为开发人员提供了灵活性、性能和生产力，以满足各种Web应用程序的需求。</p><p><strong>开始使用 Blazor，开始构建您的下一个Web应用程序吧！</strong></p><h2 id="blazor"><a href="#blazor" class="headerlink" title="blazor"></a>blazor</h2>]]></content>
       
       
       <categories>
